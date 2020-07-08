@@ -87,6 +87,13 @@ function Projects() {
                 <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">
                   SUBTITLE
                 </h3>
+                <h2 class="text-lg text-white font-medium title-font mb-4">
+                  Great Pyramid of Giza
+                </h2>
+                <p class="leading-relaxed text-base">
+                  Fingerstache flexitarian street art 8-bit waistcoat.
+                  Distillery hexagon disrupt edison bulbche.
+                </p>
               </div>
             </div>
           </div>
